@@ -1,0 +1,18 @@
+C:\Users\HP\OneDrive\Desktop\Programs\Sevilla_Ma.Angelica_P_1-5\bin\Debug\net6.0-windows\My Name.exe
+C:\Users\HP\OneDrive\Desktop\Programs\Sevilla_Ma.Angelica_P_1-5\bin\Debug\net6.0-windows\My Name.deps.json
+C:\Users\HP\OneDrive\Desktop\Programs\Sevilla_Ma.Angelica_P_1-5\bin\Debug\net6.0-windows\My Name.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\Programs\Sevilla_Ma.Angelica_P_1-5\bin\Debug\net6.0-windows\My Name.dll
+C:\Users\HP\OneDrive\Desktop\Programs\Sevilla_Ma.Angelica_P_1-5\bin\Debug\net6.0-windows\My Name.pdb
+C:\Users\HP\OneDrive\Desktop\Programs\Sevilla_Ma.Angelica_P_1-5\obj\Debug\net6.0-windows\My Name.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Programs\Sevilla_Ma.Angelica_P_1-5\obj\Debug\net6.0-windows\Sevilla_Ma.Angelica_P_1_5.Form1.resources
+C:\Users\HP\OneDrive\Desktop\Programs\Sevilla_Ma.Angelica_P_1-5\obj\Debug\net6.0-windows\Sevilla_Ma.Angelica_P_1_5.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\Programs\Sevilla_Ma.Angelica_P_1-5\obj\Debug\net6.0-windows\My Name.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Desktop\Programs\Sevilla_Ma.Angelica_P_1-5\obj\Debug\net6.0-windows\My Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\Programs\Sevilla_Ma.Angelica_P_1-5\obj\Debug\net6.0-windows\My Name.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\Programs\Sevilla_Ma.Angelica_P_1-5\obj\Debug\net6.0-windows\My Name.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Programs\Sevilla_Ma.Angelica_P_1-5\obj\Debug\net6.0-windows\My Name.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Programs\Sevilla_Ma.Angelica_P_1-5\obj\Debug\net6.0-windows\My Name.dll
+C:\Users\HP\OneDrive\Desktop\Programs\Sevilla_Ma.Angelica_P_1-5\obj\Debug\net6.0-windows\refint\My Name.dll
+C:\Users\HP\OneDrive\Desktop\Programs\Sevilla_Ma.Angelica_P_1-5\obj\Debug\net6.0-windows\My Name.pdb
+C:\Users\HP\OneDrive\Desktop\Programs\Sevilla_Ma.Angelica_P_1-5\obj\Debug\net6.0-windows\My Name.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\Programs\Sevilla_Ma.Angelica_P_1-5\obj\Debug\net6.0-windows\ref\My Name.dll
